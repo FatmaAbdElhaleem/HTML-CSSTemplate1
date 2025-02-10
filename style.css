@@ -16,7 +16,6 @@ body{
 
 header > section{
     display:flex;
-    /* background-color: antiquewhite; */
     width: 88%;
     margin-left: auto;
     margin-right: auto;
